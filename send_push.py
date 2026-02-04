@@ -28,3 +28,6 @@ def send_pushme_notification():
 
 if __name__ == "__main__":
     send_pushme_notification()
+    with open("output.txt", "w", encoding="utf-8") as f:
+        f.write("Hello from GitHub Actions\n")
+
