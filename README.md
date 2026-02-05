@@ -2,7 +2,7 @@
 
 用于 **定时检测浙江大学盲审结果** 的自动化工具。
 
-本项目基于 **GitHub Actions**，通过定时任务自动登录浙大系统，获取盲审状态，并在结果发生变化时，使用 **PushMe** 将通知发送到手机。  
+本项目基于 **GitHub Actions**，通过定时任务自动登录浙大系统，获取盲审状态，并在结果发生变化时使用 **PushMe** 将通知发送到手机（当前仅支持安卓端）。  
 ⚠️ 本项目参考自：[https://gist.github.com/FanBB2333/229d177bbffdb1adc96f5f8a65a3c47f](https://gist.github.com/FanBB2333/229d177bbffdb1adc96f5f8a65a3c47f)
 
 
