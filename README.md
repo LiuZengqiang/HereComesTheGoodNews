@@ -111,9 +111,14 @@ Actions → HereComesTheGoodNews → Run workflow
 ```
 .github/workflows/*.yml
 ```
+中的
+```
+cron: "30 1-11/2 * * 1-5"
+```
 
-中自行调整。
+字段自行调整。
 
+默认为周一到周五的早上9点30分到19点30分，每间隔2小时检测一次。
 ---
 
 ## ⚠️ 注意事项
