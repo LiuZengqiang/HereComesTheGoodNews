@@ -17,6 +17,12 @@
         "expert_name": "***",
         "review_time": "",
         "overall_evaluation": "A（优秀）",
+        "review_result": "同意修改后直接答辩"
+      },
+      {
+        "expert_name": "***",
+        "review_time": "",
+        "overall_evaluation": "A（优秀）",
         "review_result": "同意答辩"
       },
       {
@@ -27,7 +33,7 @@
       }
     ],
     "final_result": "最终判定结果：未判定",
-    "extract_time": "2026-02-05T09:59:03.715923"
+    "extract_time": "2026-02-09T04:08:11.464353"
   },
-  "hash": "3fac736f0e9ef1229eea02aee419f092"
+  "hash": "90af51f742be8dc9ec2b72cfc1d045f2"
 }
